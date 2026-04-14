@@ -1,2 +1,40 @@
+Hi, I’m Atif 
+Backend-focused MERN Stack Developer with a Master’s degree in Computer Science. Experienced in building secure, production-ready REST APIs and authentication systems with a strong focus on backend architecture and performance.
+wahid3150
 
-Hi, I’m Atif 👋 Backend-focused MERN Stack Developer with a Master’s degree in Computer Science. Experienced in building secure, production-ready REST APIs and authentication systems with a strong focus on backend architecture and performance. wahid3150 🚀 About Me 🔭 Currently working on scalable backend systems using MERN 🌱 Learning AI Automation & workflow orchestration (n8n, integrations) 💡 Interested in system design, API security, and SaaS products 🎯 Strong focus on backend architecture & performance 📫 Reach me on LinkedIn or Dev.to 🌐 Connect With Me 🧠 Featured Projects 🔹 Secure Authentication System (MERN) — In Progress Production-ready authentication & authorization system Secure user registration & login with bcrypt JWT access & refresh tokens Role-based authorization (Admin / User) Two-Factor Authentication (2FA / MFA) IP & email rate-limiting CSRF protection Input sanitization against NoSQL Injection Secure cookies (httpOnly, secure, sameSite) Tech: Node.js, Express.js, MongoDB, JWT, React Focus: Backend security, auth architecture 🔹 Real-Time Chat Application Scalable messaging system Real-time communication using WebSockets Secure user authentication Optimized message storage Backend-first architecture Tech: Node.js, Socket.io, MongoDB, Express 🛠️ Languages & Tools bat suno mai apre remd .file banya hai tho wohh applay nahi huta screet per okk tho bato ok kese apllay hta hai tk hai okk
+🚀 About Me
+🔭 Currently working on scalable backend systems using MERN
+🌱 Learning AI Automation & workflow orchestration (n8n, integrations)
+💡 Interested in system design, API security, and SaaS products
+🎯 Strong focus on backend architecture & performance
+📫 Reach me on LinkedIn or Dev.to
+🌐 Connect With Me
+   
+
+🧠 Featured Projects
+🔹 Secure Authentication System (MERN) — In Progress
+Production-ready authentication & authorization system
+
+Secure user registration & login with bcrypt
+JWT access & refresh tokens
+Role-based authorization (Admin / User)
+Two-Factor Authentication (2FA / MFA)
+IP & email rate-limiting
+CSRF protection
+Input sanitization against NoSQL Injection
+Secure cookies (httpOnly, secure, sameSite)
+Tech: Node.js, Express.js, MongoDB, JWT, React
+Focus: Backend security, auth architecture
+
+🔹 Real-Time Chat Application
+Scalable messaging system
+
+Real-time communication using WebSockets
+Secure user authentication
+Optimized message storage
+Backend-first architecture
+Tech: Node.js, Socket.io, MongoDB, Express
+
+🛠️ Languages & Tools
+        
+
