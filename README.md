@@ -16,8 +16,9 @@ I am a backend-focused MERN Stack Developer with a Master’s degree in Computer
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn  
-- ✍️ Dev.to  
+- 💼 LinkedIn
+- https://www.linkedin.com/posts/pallavi-patel-48443a2b3_webdevelopment-backend-mern-share-7450492311341531136-0uaD?utm_source=share&utm_medium=member_android&rcm=ACoAAFGhhooBzeWz2cQKuxC1jiIpdYkqYfRqWlE 
+  
 
 ---
 
