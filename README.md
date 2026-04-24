@@ -1,14 +1,11 @@
 # Hi 👋, I'm Atif
 
 ### Backend-Focused MERN Stack Developer
+<img src="https://komarev.com/ghpvc/?username=Matif321&label=Profile%20Views&color=0e75b6&style=flat" />
 
 I am a backend-focused MERN Stack Developer with a background in **Computer Science**. I specialize in building secure, production-ready REST APIs and authentication systems, with a strong focus on backend architecture and performance.
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=Matif321&label=Profile%20Views&color=0e75b6&style=flat" />
-
-I am a backend-focused MERN Stack Developer with a background in **Computer Science**. I specialize in building secure, production-ready REST APIs and authentication systems, with a strong focus on backend architecture and performance.
 
 ## 🚀 About Me
 - 🔭 Currently working on **scalable backend systems using MERN**
