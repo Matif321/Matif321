@@ -38,7 +38,7 @@ Production-ready authentication & authorization system:
 
 ### 🛠️ Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,js,git,github" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,js,html,css,tailwind,bootstrap,git,github,vscode,postman" />
 </p>
 
 
