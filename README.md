@@ -1,60 +1,67 @@
 # Hi 👋, I'm Atif
 
-### Backend-Focused MERN Stack Developer
+<h3 align="center">🚀 Backend-Focused MERN Stack Developer</h3>
 
-I am a backend-focused MERN Stack Developer with a Master’s degree in Computer Science. I specialize in building secure, production-ready REST APIs and authentication systems, with a strong focus on backend architecture and performance.
-
----
-
-## 🚀 About Me
-- 🔭 Currently working on **scalable backend systems using MERN**
-- 🌱 Learning **AI Automation & workflow orchestration (n8n, integrations)**
-- 💡 Interested in **system design, API security, and SaaS products**
-- 🎯 Strong focus on **backend architecture & performance**
-- 📫 Reach me on **LinkedIn or Dev.to**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
-- 💼 LinkedIn
-  https://www.linkedin.com/in/atif-khan-00a7a6322
-  
+### 💡 About Me
+- 🔭 Working on scalable backend systems (MERN)
+- 🌱 Learning AI Automation & n8n workflows
+- 💡 Interested in System Design & API Security
+- 🎯 Focused on Backend Performance
 
 ---
 
-## 🧠 Featured Projects
-
-### 🔐 Secure Authentication System (MERN) *(In Progress)*
-Production-ready authentication & authorization system:
-
-- 🔑 Secure user registration & login with **bcrypt**
-- 🔐 JWT authentication (**Access & Refresh Tokens**)
-- 🛡️ Role-based authorization (**Admin / User**)
-- 🔒 Two-Factor Authentication (2FA / MFA)
-- 🚫 IP & email rate-limiting
-- 🛡️ CSRF protection
-- ⚠️ Protection against NoSQL Injection
-- 🍪 Secure cookies (**httpOnly, secure, sameSite**)
-
-**Tech Stack:**  
-Node.js • Express.js • MongoDB • JWT • React  
-
-**Focus:** Backend security & authentication architecture
+### 🌐 Connect With Me
+<p>
+<a href="https://www.linkedin.com/in/atif-khan-00a7a6322"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
 
 ---
 
-### 💬 Real-Time Chat Application
-Scalable messaging system:
-
-- ⚡ Real-time communication using **WebSockets**
-- 🔐 Secure user authentication
-- 💾 Optimized message storage
-- 🧠 Backend-first architecture
-
-**Tech Stack:**  
-Node.js • Socket.io • MongoDB • Express  
+### 🛠️ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,js,git,github" />
+</p>
 
 ---
 
-## 🛠️ Languages & Tools
-Node.js | Express.js | MongoDB | React | JavaScript | Git | GitHub
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+### 📌 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 Featured Projects
+
+#### 🔐 Secure Authentication System
+- JWT Auth (Access + Refresh Tokens)
+- Role-based authorization
+- 2FA / MFA Security
+- CSRF + Rate Limiting + Secure Cookies  
+
+#### 💬 Real-Time Chat App
+- WebSockets (Socket.io)
+- Secure authentication
+- Scalable backend  
+
+---
+
+### ⚡ Fun Touch (Snake Contribution Graph)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
