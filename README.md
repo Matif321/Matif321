@@ -51,7 +51,7 @@ Scalable messaging system:
 
 - ⚡ Real-time communication using **WebSockets**
 - 🔐 Secure user authentication
-
+- - 💾 Optimized message storage
 - 🧠 Backend-first architecture
 
 **Tech Stack:**  
