@@ -1,4 +1,4 @@
-# Hi , I'm Ati
+# Hi , I'm Atif
 
 ### Backend-Focused MERN Stack Developer
 <img src="https://komarev.com/ghpvc/?username=Matif321&label=Profile%20Views&color=0e75b6&style=flat" />
