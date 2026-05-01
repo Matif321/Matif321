@@ -7,7 +7,7 @@ I am a backend-focused MERN Stack Developer with a background in **Computer Scie
 
 ---
 
-
+## 🚀 About Me
 - 🔭 Currently working on **scalable backend systems using MERN**
 - 🌱 Learning **AI Automation & workflow orchestration (n8n, integrations)**
 - 💡 Interested in **system design, API security, and SaaS products**
